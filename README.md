@@ -1,6 +1,9 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Nicolas Alexander Raza Alvarez
+
+Estudiante en la Universidad Nacional de San Martín TPI
+
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
